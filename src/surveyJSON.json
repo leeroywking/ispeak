@@ -1,0 +1,236 @@
+{
+    "pages": [
+      {
+        "name": "page1",
+        "elements": [
+          {
+            "type": "ranking",
+            "name": "impress-others",
+            "title": "I am likely to impress others as: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "Practical and direct",
+              "Emotional and somewhat stimulating",
+              "Objective and logical",
+              "Conceptual and creative"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "work-approach",
+            "title": "In the way I approach my work, I: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "want it to involve meaningful experiences with others",
+              "prefer work that is systematically or logically organized",
+              "like to see the tangible benefits that result from my expenditure of time and energy",
+              "prefer novel work or problem solving that is innovative and advances knowledge"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "communicating-others",
+            "title": "In communicating with others, I tend to: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "show less interest in thoughts and ideas that show little or no originality",
+              "become impatient with people who make leaps of logic or do not express ideas completely",
+              "gravitate toward people who express their feelings about an issue or topic",
+              "focus more on the here and now, rather than the future"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "prevent-want",
+            "title": "When circumstances prevent me from doing what I want, I find it most helpful to: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "objectively review the logic of my approach and modify it accordingly",
+              "rethink all that has happened and develop a new hypothesis or model for action",
+              "review all the facts, identify the key obstacles, and proceed in a manner that is close to the original plan",
+              "analyze the motivations and concerns of others in order to develop a new awareness of the situation"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "appear-others",
+            "title": "I may appear to others as being: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "sometimes too emotional or sensitive",
+              "sometimes too logical or aloof",
+              "sometimes overly concerned with details and specifics",
+              "sometimes too concerned with ideas and concepts"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "individual-dontknow",
+            "title": "When I write to an individual I do not know, I usually try to: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "clarify the reasons for the contact and relate this to my purpose in writing",
+              "highlight in plain language what I want, need, or expect of the other person",
+              "show how my main points fit into a broader perspective",
+              "reveal some aspect of myself and my style"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "page2",
+        "elements": [
+          {
+            "type": "ranking",
+            "name": "confronted-pov",
+            "title": "When confronted by others with a different point of view, I can usually make progress by: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "getting one or two specific commitments on which we can build later",
+              "trying to put myself in someone else's place",
+              "keeping my composure and helping others to see things simply and logically",
+              "relying on my basic ability to conceptualize and pull ideas together"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "acting-decision",
+            "title": "When acting on a decision, I tend to focus first on: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "the consequences of what I'm doing as it pertains to its impact on others",
+              "making sure that my actions are consistent and part of a systematic progression",
+              "the here-and-now implications of any actions I take",
+              "its long range significance and how it relates to future actions or conditions"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "favorable-social",
+            "title": " I tend to respond more favorably to social interactions with individuals who: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "can contribute ideas and challenge my thinking",
+              "come across as being tough-minded but fair",
+              "are comfortable sharing their feelings on a given issue",
+              "are realistic, practical, and know how to get things done"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "group-infrequent",
+            "title": "When speaking to a group with whom I have little regular contact, I would likely give the impression of being: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "a systematic thinker who can analyze the kind of problems the particular group is concerned about",
+              "an individual capable of making some innovative contribution",
+              "a pragmatic and resourceful individual who could help the group define its concerns and who could assist in solving their problems",
+              "a lively and effective individual who was sensitive to their moods and needs"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "stressful-others",
+            "title": "In stressful interactions with others, I may occasionally: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "be too open, expressing feelings that might have been better left unsaid",
+              "ignore the other person's experience of the situation and hold my own position",
+              "become so concerned with a given facet of the interaction that I fail to see other less obvious ways to resolve things",
+              "become distracted by the many possible consequences produced by the interaction"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "notcareful-others",
+            "title": " If I am not careful, others may at times feel that I am: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "unemotional and inclined toward being impersonal or detached",
+              "superficial or self-centered",
+              "snobbish, superior, or condescending",
+              "moody, excitable, or unpredictable"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "page3",
+        "elements": [
+          {
+            "type": "ranking",
+            "name": "satisfied-self",
+            "title": " I feel satisfied with myself when I: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "get more accomplished than I planned",
+              "understand the underlying feelings of others and react in a helpful way",
+              "solve a problem by using a logical or systematic method",
+              "develop feasible new thoughts and ideas"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "easy-convincing",
+            "title": "I find it easy to be convincing when I am: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "sensitive to my own feelings and those of others",
+              "logical, patient, and forbearing",
+              "practical and direct",
+              "intellectually in control of things and take all relevant factors into account"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "others-seeme",
+            "title": "At my best, others may see me as: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "a gifted and creative person",
+              "a decisive and disciplined person",
+              "a thoughtful and compassionate person",
+              "a dependable and reliable person"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "going-notwell",
+            "title": "When things are not going well, I tend to: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "trust my ability to maintain objectivity and pursue a logical course of action",
+              "trust my instincts and feel that there are a variety of ways in which I can respond",
+              "concentrate on accomplishing what needs to be done according to the plan in use",
+              "seek the support of others and freely express my thoughts and concerns to them"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "others-pressure",
+            "title": "When others pressure me, I tend to: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "become overly emotional, impulsive, or inclined to let my feelings get in the way",
+              "become too analytical and critical of them",
+              "become too concerned with proving myself by taking immediate action",
+              "become involved in creating a variety of ways to respond"
+            ]
+          },
+          {
+            "type": "ranking",
+            "name": "difficult-situations",
+            "title": "When approaching difficult situations, I can sometimes become overly involved: (4=most like you, 1=least like you)",
+            "isRequired": true,
+            "choices": [
+              "in intellectual arguments based on logical principals",
+              "in sticking to the current issues and getting done what needs to be done now",
+              "in analyzing how each situation relates to other things that must be considered",
+              "in analyzing and responding to the feelings of others"
+            ]
+          }
+          
+        ]
+      }
+    ]
+  }
